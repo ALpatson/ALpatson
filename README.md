@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Alpatson Cobbina Siaw! 👋
+<img src="https://github.com/user-attachments/assets/359f19ca-8195-4dee-9261-c0235ebcb0b7" alt="Alpatson Cobbina Siaw" style="border-radius: 50px; width: 220px; height: 190px; ">
 
-<!--
-**ALpatson/ALpatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+
+I'm a Junior Software Developer driven by curiosity, continuous learning, and a passion for solving problems through code. I thrive in collaborative environments, value strong communication, and enjoy sharing knowledge and helping others grow.
+
+I have hands-on experience with both front-end and back-end development, and I’m currently expanding my skills through the ALX Software Engineering Program, where I’m focused on full-stack development.
+
+Core Skills:
+
+✅ Python Programming
+✅ HTML & CSS (Front-End Development)
+✅ Team collaboration & knowledge sharing
+Whether it's building clean, user-friendly interfaces or writing efficient backend logic, I'm always eager to take on new challenges and grow as a developer.
+
+⛓️‍💥Let’s connect and build something great!
+
+- 🌱 Currently learning: **Front-End and Back-End Engineering**
+- 🔭 Working on: **My Personal Portfolio site**
+- 🌍 Languages: **Python**
+- 📫 How to reach me: **cobbinaalpatson@gmail.com**
+- ⚡ Fun fact: **I am a chess player**
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=black)
+
+
+
+## Featured Projects 💻
+
+### [Socail Network](project_1_link)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/168494f6-72f0-449e-b561-d3df89dbda91)
+
+
+**This social network project** is a **Social networking platefrom where individuals can follow or unfollow each other** built with **Python**. This project demonstrates my ability to **programme using python**. You can check out the repository [[here]](https://github.com/ALpatson/socialnetwork)
+
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**([Personal Site](https://bit.ly/alpatsoncobbinasiaw))
+- **[LinkedIn]**[(My Profile)](https://www.linkedin.com/in/alpatson-cobbina-siaw/)
+- **[Twitter]**[(my twitter_profile_)](https://x.com/alpa_cobb?s=21)
+
+

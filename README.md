@@ -34,7 +34,7 @@ Whether it's building clean, user-friendly interfaces or writing efficient backe
 
 ## Featured Projects 💻
 
-### [Socail Network](project_1_link)
+### [Social Network](project_1_link)
 
 ![Screenshot (55)](https://github.com/user-attachments/assets/168494f6-72f0-449e-b561-d3df89dbda91)
 

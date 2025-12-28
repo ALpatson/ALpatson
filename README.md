@@ -94,7 +94,7 @@ A social networking platform demonstrating backend system design principles. The
 
 I'm always excited to collaborate, discuss software engineering, or just chat about tech and chess.
 
-- **[Personal Website](https://bit.ly/alpatsoncobbinasiaw)** – My corner of the web
+- **[Personal Website](https://alpatsonportfolio.vercel.app)** – My corner of the web
 - **[LinkedIn](https://www.linkedin.com/in/alpatson-cobbina-siaw/)** – Professional insights
 - **[Twitter/X](https://x.com/alpa_cobb?s=21)** – Thoughts and updates
 - **[Email](mailto:cobbinaalpatson@gmail.com)** – cobbinaalpatson@gmail.com

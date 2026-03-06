@@ -1,14 +1,14 @@
-# Hey there, I'm Alpatson Cobbina Siaw 👋
+# Hey there, I'm Alpatson Cobbina Siaw 
 
 <img width="190" height="190" alt="Profile Picture" src="https://github.com/user-attachments/assets/0215ccb4-da5a-4033-bf94-ae0e1da90fe0" />
 
-## About Me 🚀
+## About Me 
 
 I'm a Backend-Focused Software Engineer and Master's student in Software Engineering at JUNIA-ISEN. I'm passionate about building scalable, well-architected backend systems that power reliable applications. While I'm a capable full-stack developer, my primary focus is backend engineering—designing robust systems, optimizing databases, architecting APIs, and shipping production-ready MVPs with real-world workflows.
 
 Currently advancing my expertise through rigorous academic work and practical projects, diving deep into system design, architectural patterns, API design, and modern software engineering best practices. I'm driven by curiosity, committed to continuous learning, and genuinely invested in mentoring other developers along the way.
 
-## Core Competencies 🛠️
+## Core Competencies 
 
 **Backend & Systems (Primary Focus):**  
 Java (OOP, Design Patterns, System Architecture), NestJS (REST APIs, Domain-Driven Design), Python (Backend Development, System Architecture), SQL & Database Design, RESTful API Design, System Architecture & Scalability  
@@ -21,7 +21,7 @@ Git/GitHub, TypeORM, Exception Handling, Agile Methodologies, Code Review & Know
 
 ---
 
-## Featured Work 💻
+## Featured Work 
 
 ### Miss Library – Library Management System  
 **NestJS** | **React** | **TypeScript** | Backend Architecture | JUNIA M1 Project  
@@ -139,7 +139,7 @@ A social networking backend focused on relationship modeling, system design, and
 
 ---
 
-## What I'm Up To 🌱
+## What I'm Up To 
 
 - **Currently Exploring:** Advanced system design, database optimization, distributed systems, and scalable backend patterns  
 - **Building:** Robust backend systems, APIs, and architectural solutions from my Master's program  
@@ -162,7 +162,7 @@ A social networking backend focused on relationship modeling, system design, and
 
 ---
 
-## Let's Connect 📬
+## Let's Connect 
 
 - **Personal Website:** https://alpatsonportfolio.vercel.app  
 - **LinkedIn:** https://www.linkedin.com/in/alpatson-cobbina-siaw/  
